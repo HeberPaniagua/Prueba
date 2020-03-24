@@ -14,3 +14,8 @@ div {
   background-color: aquamarine;
   border: 1px solid black;
 }
+footer {
+  padding: 1;
+  background-color: blanchedalmond;
+  text-align: center;
+}
