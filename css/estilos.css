@@ -14,3 +14,12 @@ div {
   background-color: aquamarine;
   border: 1px solid black;
 }
+.centrar {
+  display: flex;
+  justify-content: center;
+  background-color: transparent;
+  border: none;
+}
+article {
+  width: 60%;
+}
